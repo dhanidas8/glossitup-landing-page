@@ -3,7 +3,7 @@
   Before launch, replace WHATSAPP_NUMBER with your WhatsApp number in international format:
   India example: 919876543210 (country code + number, no +, spaces, or dashes).
 */
-const WHATSAPP_NUMBER = "919999999999"; // TODO: replace with your business WhatsApp number
+const WHATSAPP_NUMBER = "9082494056"; // TODO: replace with your business WhatsApp number
 
 const orderMessage = (product) =>
   `Hi Gloss It Up! 💗 I'd like to order ${product}. Please share availability and delivery details.`;
